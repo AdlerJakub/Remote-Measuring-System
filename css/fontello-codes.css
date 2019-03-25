@@ -1,0 +1,11 @@
+
+.icon-chart-bar:before { content: '\e800'; } /* '' */
+.icon-logout:before { content: '\e801'; } /* '' */
+.icon-download:before { content: '\e802'; } /* '' */
+.icon-fork:before { content: '\f126'; } /* '' */
+.icon-plug:before { content: '\f1e6'; } /* '' */
+.icon-chart-line:before { content: '\f201'; } /* '' */
+.icon-toggle-off:before { content: '\f204'; } /* '' */
+.icon-toggle-on:before { content: '\f205'; } /* '' */
+.icon-user-plus:before { content: '\f234'; } /* '' */
+.icon-thermometer-2:before { content: '\f2c9'; } /* '' */
