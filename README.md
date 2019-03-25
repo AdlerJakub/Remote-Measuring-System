@@ -1,0 +1,2 @@
+# Remote-Measuring-System
+Interface for device projected and assembled by my schoolmate for unveristy project. Our project (my interface part and his hardware part) was ready for commercial usage set produced for industry where exists need to measure current parameters in dangerous places and collect it in one place. Interface support a lot devices (dynamic generated parts of website) and allow to collect measures, generate graphs and much more!
